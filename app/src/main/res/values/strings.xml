@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ContextMenu</string>
+    <string name="edit">Editar</string>
+    <string name="remove">Remover</string>
 </resources>
